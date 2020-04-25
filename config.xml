@@ -2,7 +2,7 @@
 <widget id="com.moodle.moodlemobile" version="3.8.2" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Moodle</name>
     <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+    <author email="b360moodle@gmail.com" href="http://www.b360mm.com">Moodle Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
@@ -152,7 +152,7 @@
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
     <plugin name="cordova-plugin-customurlscheme" spec="4.4.0">
-        <variable name="URL_SCHEME" value="moodlemobile" />
+        <variable name="URL_SCHEME" value="b360lms" />
     </plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
@@ -190,6 +190,4 @@
     <config-file parent="FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED" target="*-Info.plist">
         <string>YES</string>
     </config-file>
-    <engine name="android" spec="8.0.0" />
-    <engine name="ios" spec="5.0.1" />
 </widget>
