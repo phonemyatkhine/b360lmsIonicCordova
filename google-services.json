@@ -1,42 +1,37 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "3311637750",
+    "firebase_url": "https://b-360-lms.firebaseio.com",
+    "project_id": "b-360-lms",
+    "storage_bucket": "b-360-lms.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:3311637750:android:82c372e01bd29635b888d7",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.b360.lms"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "3311637750-k3psevuachgakf2nk8ji59m3gi27e8vp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyCgQCJQv-zHDbp8wy6cKLRefl9DiVXJPZQ"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3311637750-k3psevuachgakf2nk8ji59m3gi27e8vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

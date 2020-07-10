@@ -1,7 +1,7 @@
 {
   "name": "b360lms",
-  "version": "1.1.0",
-  "description": "B360 Learning Management System App",
+  "version": "1.0.0",
+  "description": "B360 Learning Management System",
   "author": {
     "name": "B360 Developers",
     "email": "b360moodle@gmail.com"
@@ -148,8 +148,8 @@
   },
   "cordova": {
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ],
     "plugins": {
       "com-darryncampbell-cordova-plugin-intent": {},
